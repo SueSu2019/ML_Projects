@@ -1,0 +1,3 @@
+
+This project is about auto auction prediction. Based on the half year auto auction information, I will build a set of prediction models based on different ML Algorithms, to predict which and how the features
+impact the auto aution.
